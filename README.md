@@ -17,7 +17,7 @@ Este proyecto es una **tienda en línea** que permite a los usuarios navegar por
 
 - **HTML**: Estructura básica de la página.
 - **CSS**: Estilos y diseño visual.
-- **JavaScript** (opcional si lo implementas): Para funcionalidades adicionales como el carrito de compras.
+- **JavaScript** (opcional para implementas)
 
 ## Instalación
 
