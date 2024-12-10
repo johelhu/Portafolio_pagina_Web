@@ -23,4 +23,4 @@ Este proyecto es una **tienda en línea** que permite a los usuarios navegar por
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tienda-juegos-retro.git
+   git clone https://github.com/johelhu/Portafolio_pagina_Web.git
